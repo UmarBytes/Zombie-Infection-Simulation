@@ -1,5 +1,5 @@
-Zombie Infection Simulation Using Cellular Automata
-Course: Parallel Computing (COMP H3036)
+# Zombie Infection Simulation Using Cellular Automata
+**Course: Parallel Computing (COMP H3036)** \n
 Institution: Technological University Dublin
 Completed By: Muhammad Umar Farooq
 Role in Project: Academic Collaboration
