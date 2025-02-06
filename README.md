@@ -1,14 +1,18 @@
 # Zombie Infection Simulation Using Cellular Automata
-**Course: Parallel Computing (COMP H3036)** \n
-Institution: Technological University Dublin
-Completed By: Muhammad Umar Farooq
-Role in Project: Academic Collaboration
+**Course: Parallel Computing (COMP H3036)** 
 
-Project Introduction
+**Institution: Technological University Dublin**
+
+**Completed By: Muhammad Umar Farooq**
+
+**Role in Project: Academic Collaboration**
+
+
+# Project Introduction
 This project models a Zombie Infection outbreak using Cellular Automata, implementing both serial and parallel computing environments to simulate infection dynamics. The project simulates infection scenarios, analyzes performance speed-ups, and evaluates population outcomes under various conditions.
 
 Project Features
-Parallel and Serial Simulations: Implementations for both serial and parallel simulations using Pthreads.
+**Parallel and Serial Simulations:** Implementations for both serial and parallel simulations using Pthreads.
 Infection Simulation: Simulates infection dynamics using the Cellular Automata model, where each cell represents a susceptible, infected (zombie), or removed individual.
 Performance Analysis: Provides speed-up comparisons between parallel and serial simulations.
 Visualization: Visualizes the grid at various time steps and saves it for further analysis.
