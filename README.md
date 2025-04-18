@@ -29,11 +29,14 @@ Functionality: Implements the parallel version using Pthreads, where the grid ro
 **viz.py:**
 Functionality: Visualizes the grid data for different days of the simulation. It loads the grid state from text files and generates corresponding images for each day, saving them as PNG files for later review.
 
-# Contact Email
-For any inquiries or further details, please contact:
+## Social Media & Connect 🌐
+GitHub Repository: [Java Fundamentals (ITP)](https://github.com/UmarBytes/INTRODUCTION-TO-PROGRAMING-ITP)
 
-**Email:** umarbytesoflife@gmail.com
+**Fiverr:** [UmarFarooq on Fiverr](https://www.fiverr.com/umarfarooq872?public_mode=true) – Need help with NLP, AI, ML, Deep Learning, LLMs, Data Science, or Computer Science? Let's collaborate!
 
-**Responsible: Muhammad Umar Farooq**
+**Facebook:** [Umar Gujjar](https://www.facebook.com/mumar.gujjar.923?_rdc=1&_rdr#) – Stay connected for updates and support.
 
+**YouTube:** [UmarBytes of Life](https://www.youtube.com/@UmarBytesoflife) – Tune in for tutorials, guides, and programming discussions.
+
+**ORCID ID:** [Umar’s ORCID Profile](https://orcid.org/my-orcid?orcid=0009-0008-0919-6720) – Explore my research papers and academic contributions.
 
