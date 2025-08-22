@@ -1,4 +1,4 @@
-# Zombie Infection Simulation Using Cellular Automata
+# Zombies Infection Simulation Using Cellular Automata
 **Course: Parallel Computing (COMP H3036)** 
 
 **Institution: Technological University Dublin**
